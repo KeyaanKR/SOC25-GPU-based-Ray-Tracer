@@ -14,15 +14,6 @@ Each week, new tasks will be released in separate folders (`WEEK2`, `WEEK3`, etc
 
 ---
 
-## 🤝 Getting Started
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/KeyaanKR/SOC25-GPU-based-Ray-Tracer.git
-   cd SOC25-GPU-based-Ray-Tracer
-   ```
-
 ## 📅 Week 1
 
 We begin with foundational work: implementing a `Vec3` class and understanding the vector math that underpins ray tracing.

@@ -60,6 +60,7 @@ Understand how vector math forms the foundation of ray tracing:
 
 ### 🛠️ Makefile Basics
 
+- [Make Tutorial](https://makefiletutorial.com/)
 - [Makefile Tutorial for Beginners – YouTube (by Bro Code)](https://www.youtube.com/watch?v=_r7i5X0rXJk)
 - [GNU Make Manual (Advanced Reference)](https://www.gnu.org/software/make/manual/make.html)
 
