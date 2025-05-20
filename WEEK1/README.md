@@ -36,7 +36,7 @@ Create a C++ class with the following:
 
 Write a `Makefile` that:
 
-- Compiles your `vec3.cpp` and `main.cpp` into an executable.
+- Compiles your `vec3.h` and `main.cpp` into an executable.
 - Has commands like:
   - `make`
   - `make clean`
