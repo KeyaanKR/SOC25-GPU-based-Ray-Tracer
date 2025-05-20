@@ -51,4 +51,19 @@ Understand how vector math forms the foundation of ray tracing:
 - How rays reflect and refract off surfaces
 - Why normalization is important
 
-📘 **Recommended Resource:**
+## 📚 Resources
+
+### 🧮 Vec3 & C++ Operator Overloading
+
+- [Ray Tracing in One Weekend – Vec3 Chapter](https://raytracing.github.io/books/RayTracingInOneWeekend.html#vec3)
+- [GeeksforGeeks – Operator Overloading in C++](https://www.geeksforgeeks.org/operator-overloading-c/)
+
+### 🛠️ Makefile Basics
+
+- [Makefile Tutorial for Beginners – YouTube (by Bro Code)](https://www.youtube.com/watch?v=_r7i5X0rXJk)
+- [GNU Make Manual (Advanced Reference)](https://www.gnu.org/software/make/manual/make.html)
+
+### 📐 Vector Math & Ray Tracing
+
+- [Ray Tracing Math – YouTube (The Cherno)](https://www.youtube.com/watch?v=4NshnkzOdI0)
+- [Ray Tracing Math – YouTube (UC Davis Academics)](https://www.youtube.com/watch?v=Ahp6LDQnK4Y)
