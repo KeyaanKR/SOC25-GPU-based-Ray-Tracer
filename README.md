@@ -27,7 +27,7 @@ We begin with foundational work: implementing a `Vec3` class and understanding t
 
 Ray tracing your first image using SYCL.
 
-👉 Access the Week 3 tasks and instructions here:
+👉 **Access the Week 3 tasks and instructions here:**
 [WEEK3/README.md](https://github.com/KeyaanKR/SOC25-GPU-based-Ray-Tracer/blob/main/WEEK3/README.md)
 
 ---
