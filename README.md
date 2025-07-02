@@ -31,3 +31,13 @@ Ray tracing your first image using SYCL.
 [WEEK3/README.md](https://github.com/KeyaanKR/SOC25-GPU-based-Ray-Tracer/blob/main/WEEK3/README.md)
 
 ---
+
+## 📅 Week 5
+
+Implement realistic rendering with antialiasing and materials (diffuse, metal, dielectric).  
+Those using SYCL should implement material tracing and pixel sampling on GPU.
+
+👉 **Access the Week 5 tasks and instructions here:**  
+[WEEK5/README.md](https://github.com/KeyaanKR/SOC25-GPU-based-Ray-Tracer/blob/main/WEEK5/README.md)
+
+---
